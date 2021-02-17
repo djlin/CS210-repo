@@ -1,5 +1,6 @@
 *~
 fibonacci-recursive
 fibonacci-iterative
+selection_sort
 build/*
 a.out
