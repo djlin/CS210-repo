@@ -12,3 +12,9 @@
 
 * (S) [fibonacci-recursive.cpp](fibonacci-recursive.cpp)
 * (E) [fibonacci-iterative.cpp](fibonacci-iterative.cpp)
+* (E-Solution) [fibonacci-iterative-ans.cpp](fibonacci-iterative-ans.cpp)
+
+* (S) [selection_sort.cpp](selection_sort.cpp)
+* (S) [quick_sort.cpp](quick_sort.cpp)
+* (E) Implement the mergesort
+* (E-Solution) [merge_sort.cpp](merge_sort.cpp)
